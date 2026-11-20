@@ -18,22 +18,22 @@ Seluruh aset visual (karakter, makanan, etalase kaca hijau, papan kayu, hingga e
 ### 1. Menu Utama & Kustomisasi Nama Warung
 Tampilan awal dengan papan nama kayu pixel art interaktif, kustomisasi nama warung *real-time*, pemilihan **Mode Harian**, serta indikator progres pembukaan **Mode Zen (Masak Santai)**.
 
-![Menu Utama Warung Rasa Nusantara](.aistudio/artifacts/menu-utama.png)
+![Menu Utama Warung Rasa Nusantara](artifacts/menu-utama.png)
 
 ### 2. Konter Pelanggan, Meja Racik & Etalase Warung
 Layar utama permainan menampilkan diorama warung dengan cuaca dinamis, dialog pesanan pelanggan, **Meja Racik** lengkap dengan opsi penyajian (*Kuah Siram/Pisah*, *Es Normal/Tanpa Es*, *Manis/Tawar*), serta **Etalase** kaca hijau 5 kategori dan pemantau kompor mini.
 
-![Meja Racik dan Etalase Warung](.aistudio/artifacts/meja-racik-etalase.png)
+![Meja Racik dan Etalase Warung](artifacts/meja-racik-etalase.png)
 
 ### 3. Dapur Masak Interaktif (4 Stasiun Memasak)
 Area dapur retro dengan 4 stasiun interaktif (**Wajan Penggorengan**, **Panci Kuah & Ungkep**, **Wajan Tumis**, dan **Cobek & Ulekan Batu**) lengkap dengan indikator fase kematangan **Mentah**, **Matang Sempurna**, hingga risiko **Gosong** untuk mengisi ulang stok etalase (*+4 porsi* per masakan matang).
 
-![Dapur Masak Interaktif Warung](.aistudio/artifacts/dapur-masak.png)
+![Dapur Masak Interaktif Warung](artifacts/dapur-masak.png)
 
 ### 4. Buku Catatan Warung (Ensiklopedia & Pelanggan VIP)
 Modal bergaya buku tulis kotak-kotak retro berisi daftar **Menu & Resep Rahasia**, profil **Pelanggan Tetap (VIP)** lengkap dengan meteran hati, serta daftar **Pencapaian (*Achievement*)**.
 
-![Buku Catatan Warung](.aistudio/artifacts/buku-catatan.png)
+![Buku Catatan Warung](artifacts/buku-catatan.png)
 
 ---
 
@@ -74,7 +74,7 @@ Modal bergaya buku tulis kotak-kotak retro berisi daftar **Menu & Resep Rahasia*
 ## 📁 Struktur Proyek
 
 ```text
-├── .aistudio/
+├── 
 │   └── artifacts/           # Screenshot preview untuk dokumentasi
 ├── src/
 │   ├── components/
